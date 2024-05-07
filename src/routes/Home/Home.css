@@ -1,0 +1,10 @@
+.home {
+}
+.opener {
+  min-height: 100vh;
+  background: rgb(252,136,95);
+  background: linear-gradient(45deg, rgba(252,136,95,0.5952494645319065) 0%, rgba(255,255,255,0) 39%);
+}
+.hear_text_button_link{
+  text-decoration: none;
+}
